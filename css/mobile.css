@@ -1,0 +1,27 @@
+@media screen and(min-width:1200px) and (max-width:1399px){
+
+}
+@media screen and(min-width:992px) and (max-width:1199px){
+
+}
+@media screen and(min-width:768px) and (max-width:991px){
+
+}
+@media screen and(min-width:576px) and (max-width:767px){
+  .anasayfaservisalani.card{
+    margin-bottom: 15px;
+  }
+  .icsayfafotograf{
+    width:100%;
+  }
+  .icsayfafotograf{
+    margin:0 auto 0 auto;
+    display:table;
+  }
+}
+@media screen and(min-width:575px){
+  .anasayfaservisalani.card{
+    margin-bottom: 15px;
+  }
+
+}
